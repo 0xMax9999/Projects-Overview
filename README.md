@@ -97,7 +97,7 @@ This is a nft management tooling on Solana.
   - <a href="https://twitter.com/rfrshnft" target="_blank">Rfrsh Twitter</a>
   - <a href="https://discord.com/invite/blankpage" target="_blank">Rfrsh Discord</a>
 
-<!--
+
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -110,7 +110,7 @@ The BonesPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
   - Blind is auto-increasing, AFK mode is provided
 
 - Social Link: <a href="https://twitter.com/bonesdao" target="_blank">The Bones-Poker</a>
--->
+
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
