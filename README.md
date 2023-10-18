@@ -47,8 +47,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 <h3><u><strong><i>DummifiedLabs Traitshop</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-![dummified](https://github.com/0xBear999/Projects-Overview/assets/90205652/d8b4838f-0512-4027-8d01-b1312db27517)
-
+<img align="right" height = "250px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/d8b4838f-0512-4027-8d01-b1312db27517" >
 DummifiedLabs Traitshop is a shop which can purchase and upgrade traits for his DummifiedLabs collection on Solana
 
 - Beta Testing now
