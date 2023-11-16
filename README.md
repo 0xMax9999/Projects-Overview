@@ -207,7 +207,7 @@ As Waxel World is a blockchain / NFT game, things work a bit differently compare
 
 - Social Link: <a href="https://twitter.com/waxel_nft" target="_blank">Waxel World-twitter</a>
 
-
+<!--
 <h3><u><strong><i>BarnYard</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -219,7 +219,7 @@ Solana Multi Collection NFT staking
   - Staking will be limited to 3 farmers and 3 animals per land plot.
   - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
 - Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
-
+-->
 
 <h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
