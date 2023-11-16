@@ -161,7 +161,7 @@ This is the Dice game. The random number will be created in blockchain and compa
   - If you win, you receive the 2 times, you earn
   - If you lost, you can't receive at all.
 
-
+<!--
 <h3><u><strong><i>Goblin Army</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -194,7 +194,7 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
 
-
+-->
 <h3><u><strong><i>Waxel World</i></strong></u> &nbsp;(WAX)</h3>
 <hr />
 
