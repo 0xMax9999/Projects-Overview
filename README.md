@@ -43,6 +43,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
   - Game effects with three.js & react
   - Modularize of game with phaser
 
+<!--
 <h3><u><strong><i>DummifiedLabs Traitshop</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -51,6 +52,8 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 DummifiedLabs Traitshop is a shop which can purchase and upgrade traits for his DummifiedLabs collection on Solana
 <br /><br /><br /><br /><br /><br />
 - Beta Testing now
+
+-->
 
 <h3><u><strong><i>Crypto Legions Game</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
