@@ -4,7 +4,7 @@
 
 ## Swap platforms, trading bots with Jupiter, Raydium, Orca, Dydx, Ref-finance etc
 
-## mint/launchpad, staking, marketplace, raffle/auction, traitshop, utilities, p2e games (dice, coinflip, poker, battle games) with erc-20, erc-721, erc-1155, erc-7, spl-token, token2022, NFT, pNFT, cNFT, xNFTs
+## Mint/Launchpad, staking, marketplace, raffle/auction, traitshop, utilities, p2e games (dice, coinflip, poker, battle games) with erc-20, erc-721, erc-1155, erc-7, spl-token, token2022, NFT, pNFT, cNFT, xNFTs
 
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
