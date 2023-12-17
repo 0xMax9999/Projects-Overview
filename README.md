@@ -1,6 +1,9 @@
 <!--# Blockchain Projects: (EVM / Solana / NEAR / Aptos)-->
 
-# NFT & Defi projects like mint/launchpad, staking, marketplace, raffle/auction, traitshop, utilities, p2e games (dice, coinflip, poker, battle games), swap projects which 0xBear took part in.
+# NFT & Defi projects which 0xBear took part in.
+
+## mint/launchpad, staking, marketplace, raffle/auction, traitshop, utilities, p2e games (dice, coinflip, poker, battle games) with erc-20, erc-721, erc-1155, erc-7, spl-token, token2022, NFT, pNFT, cNFT, xNFTs
+## Swap platforms, trading bots with Jupiter, Raydium, Orca, Dydx, Ref-finance etc
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
