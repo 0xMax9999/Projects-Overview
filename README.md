@@ -45,8 +45,11 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 - Video Link: <a href="https://www.loom.com/share/5639a8fb5f9746e49b5cf8c6df11344b" target="_blank">Here</a>
 
   - Only Crosmo NFT holders can play game
+    
   - Game effects with three.js & react
+    
   - Modularize of game with phaser
+
 
 
 <h3><u><strong><i>Roo Token Launch</i></strong></u> &nbsp;(SOL)</h3>
@@ -54,13 +57,18 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 
 <img align="right" height = "250px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/e3937883-a2d2-4ad1-a2d4-8dfe6cba162b" >
 
+
 - Original Link: <a href="https://www.roidsroo.xyz/" target="_blank">Landing Page</a>
+
 - BirdEye Link: <a href="https://birdeye.so/token/7agFWphxVZ4qH3eV3wr6WQswrsYvt6636knLcb6CVNfC?chain=solana" target="_blank">Here</a>
+
 - Social Link: <a href="https://x.com/roidsroo?s=21&t=ffxa__mFbalwO0ud53lNNQ" target="_blank">Twitter</a>
 
   - Trading Meme Coin Launch on Solana
+    
   - Build of Landing page
   
+
 
 <!--
 <h3><u><strong><i>DummifiedLabs Traitshop</i></strong></u> &nbsp;(Solana)</h3>
