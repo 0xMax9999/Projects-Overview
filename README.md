@@ -1,6 +1,6 @@
 <!--# Blockchain Projects: (EVM / Solana / NEAR / Aptos)-->
 
-# NFT & Defi projects which 0xBear took part in.
+# NFT & Defi projects which 0xBear took part in. 
 
 ## Swap platforms, trading bots with Jupiter, Raydium, Orca, Dydx, Ref-finance etc
 
