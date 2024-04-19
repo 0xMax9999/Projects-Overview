@@ -51,7 +51,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
   - Modularize of game with phaser
 
 
-<h3><u><strong><i> Coin Capital </i></strong></u> &nbsp;(SOL)</h3>
+<h3><u><strong><i> Coin Capital </i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" height = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/45dfccf6-086b-42ae-8cb9-4b0d8ced389b" >
@@ -70,7 +70,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 
 <br /><br /><br /><br /><br /><br />  <br /><br /><br /><br /><br /><br />  
 
-<h3><u><strong><i>Roo Token Launch</i></strong></u> &nbsp;(SOL)</h3>
+<h3><u><strong><i>Roo Token Launch</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" height = "250px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/e3937883-a2d2-4ad1-a2d4-8dfe6cba162b" >
