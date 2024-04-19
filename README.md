@@ -54,11 +54,15 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 <h3><u><strong><i> Coin Capital </i></strong></u> &nbsp;(SOL)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/45dfccf6-086b-42ae-8cb9-4b0d8ced389b" >
+<img align="right" height = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/45dfccf6-086b-42ae-8cb9-4b0d8ced389b" >
 
 - Original Link: <a href="https://coin-capital.it/" target="_blank">Landing Page</a>
 
+  Dashboard to detail collection holding and airdrop info with webflow
+  
 - Vaults Link: <a href="https://vaults.coin-capital.it" target="_blank">Here</a>
+
+  Vaults to get cnft cards by buring pnft pack
 
 - Social Link: <a href="https://x.com/roidsroo?s=21&t=ffxa__mFbalwO0ud53lNNQ" target="_blank">Twitter</a>
 
