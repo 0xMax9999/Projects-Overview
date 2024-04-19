@@ -64,7 +64,9 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 
   Vaults to get cnft cards by buring pnft pack
 
-- Social Link: <a href="https://x.com/roidsroo?s=21&t=ffxa__mFbalwO0ud53lNNQ" target="_blank">Twitter</a>
+- Social Link: <a href="https://twitter.com/alphadogmilano" target="_blank">Twitter</a>
+
+- Social Link: <a href="https://discord.gg/K7u8drAcbg" target="_blank">Discord</a>
 
 <br /><br /><br /><br /><br /><br />  <br /><br /><br /><br /><br /><br />  
 
