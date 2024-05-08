@@ -153,6 +153,17 @@ This is a nft management tooling on Solana.
   - <a href="https://twitter.com/rfrshnft" target="_blank">Rfrsh Twitter</a>
   - <a href="https://discord.com/invite/blankpage" target="_blank">Rfrsh Discord</a>
 
+
+<h3><u><strong><i>Yielz Protocol</i></strong></u> &nbsp;(Core)</h3>
+<hr />
+
+<img align="right" width = "300px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/fcac3c1e-aeeb-46b1-8465-984441245e8a" >
+Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors.
+Stake your boosted Yieldz tokens and earn sustainable double CORE + SHDW rewards from the same staking pool voted by Yieldz DAO.
+
+
+
+
 <!--
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
