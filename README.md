@@ -161,8 +161,24 @@ This is a nft management tooling on Solana.
 Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors.
 Stake your boosted Yieldz tokens and earn sustainable double CORE + SHDW rewards from the same staking pool voted by Yieldz DAO.
 
+<h3><u><strong><i>King Ape Battle Game</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width = "300px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/cdd28336-1f13-454d-9760-b70598b4b7b3" >
+
+This is a p2e battle game on solana blockchain. Players can enhance their character by using bananas in each round and when 16 players enter the game, the game is started, when the player wins, he can get reward involving bananas and some sol.
+Just pleasure.
 
 
+<h3><u><strong><i>Trading Apes Gang TradingContest</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width = "300px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/bd2ac67b-b197-46c2-8a60-3b2495a3c908" >
+This was a first nft trading contest system on solana.
+I built this system from scratch with successful result.
+Users register to a competition and the system tracks his trading transaction history and automatically calculate total profits in the competition period.
+And rank the users on real time and at the end of the contest give rewards to the winner.
+It's transparent and fair for all users with the advantage blockchain.
 
 <!--
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(Solana)</h3>
