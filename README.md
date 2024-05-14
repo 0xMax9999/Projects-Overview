@@ -191,6 +191,7 @@ The BunnyPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
 
 - You can play on game table and tournament table by paying SOL & spl-tokens
 - Blind is auto-increasing, AFK mode is provided
+<br /><br /><br /><br /><br />
 
 <!--
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(Solana)</h3>
