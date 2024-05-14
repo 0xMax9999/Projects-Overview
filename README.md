@@ -136,7 +136,7 @@ This is a GODz community with `$MYTH` on solana blockchain. This platform consis
   - <a href="https://twitter.com/nft_godz" target="_blank">GODz Twitter</a>
   - <a href="https://discord.gg/nftgodz" target="_blank">GODz Discord</a>
   - <a href="https://magiceden.io/marketplace/godz_of_solaria_" target="_blank">MagicEden</a>
-
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 <h3><u><strong><i>Rfrsh Dashboard</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -180,6 +180,18 @@ Users register to a competition and the system tracks his trading transaction hi
 And rank the users on real time and at the end of the contest give rewards to the winner.
 It's transparent and fair for all users with the advantage blockchain.
 <br /><br /><br />
+
+<h3><u><strong><i>Bunny Poker</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" height = "300px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/6d336fc7-0f14-4002-aecc-882c9c454dcb" >
+
+The BunnyPoker is a standard Texas Hold'm Poker Game which is playing on Solana.
+
+
+- You can play on game table and tournament table by paying SOL & spl-tokens
+- Blind is auto-increasing, AFK mode is provided
+
 <!--
 <h3><u><strong><i>Bones Poker Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
