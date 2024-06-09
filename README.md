@@ -168,6 +168,7 @@ This is a nft management tooling on Solana.
 <img align="right" width = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/fcac3c1e-aeeb-46b1-8465-984441245e8a" >
 Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors.
 Stake your boosted Yieldz tokens and earn sustainable double CORE + SHDW rewards from the same staking pool voted by Yieldz DAO.
+<br />
 
 <h3><u><strong><i>King Ape Battle Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -187,7 +188,7 @@ I built this system from scratch with successful result.
 Users register to a competition and the system tracks his trading transaction history and automatically calculate total profits in the competition period.
 And rank the users on real time and at the end of the contest give rewards to the winner.
 It's transparent and fair for all users with the advantage blockchain.
-<br /><br /><br />
+<br /><br />
 
 <h3><u><strong><i>Bunny Poker</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -246,12 +247,12 @@ As Waxel World is a blockchain / NFT game, things work a bit differently compare
 
 <img align="right" width = "500px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/42546e78-f011-44a4-9634-f9ac8c6af0e4.png" >
 
-
+<br />
 This is a staking project on NEAR protocol. Users can stake their nfts on 2 collections and get `$ANC` as a reward.
 
 
 - Original Link: <a href="https://staking.vexedapesclub.com/" target="_blank">VexedApesClub Staking</a>
-<br /><br /><br />
+<br /><br /><br /><br /><br />
 
 
 
