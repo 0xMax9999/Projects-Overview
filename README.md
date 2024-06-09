@@ -306,7 +306,7 @@ Solana Multi Collection NFT staking
   - Staking will be limited to 3 farmers and 3 animals per land plot.
   - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
 - Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
--->
+
 
 <h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
@@ -354,7 +354,7 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 - Original Link: <a href="https://dustyvaults.net/" target="_blank">Dusty Vaults</a>
 
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
-
+-->
 
 <h3><u><strong><i>VexedApesClub Staking</i></strong></u> &nbsp;(NEAR)</h3>
 <hr />
