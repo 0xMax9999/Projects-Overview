@@ -24,12 +24,15 @@ Multiple Factor Rewards Staking program for Shred NFT collections
 <img align="right" width = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/8653c1b2-d072-4987-95cd-205129cc6e08" >
 
 P2E game with utility token providing game story, token swap
-
+<br /><br /><br />
 - Original Link: <a href="https://www.algonea.io" target="_blank">Here</a>
+<br />
 
 - Github: <a href="https://github.com/NebulaStudiosOrg" target="_blank">Here</a>
+<br />
 
 - Medium: <a href="https://medium.com/@algonealab" target="_blank">Here</a>
+<br />
 
 
 <h3><u><strong><i>Saturn Finance</i></strong></u> &nbsp;(Solana)</h3>
