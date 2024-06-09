@@ -21,7 +21,7 @@ Multiple Factor Rewards Staking program for Shred NFT collections
 <h3><u><strong><i>Saturn Finance</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width = "300px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/cf621211-d212-4953-8d94-d7f9520992a7" >
+<img align="right" width = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/cf621211-d212-4953-8d94-d7f9520992a7" >
 
 The Saturn Finance is a treasury backed DeFi aggregator that re balances a portfolio of different assets and investments in service based protocols. 
 Our protocol makes use of the most valuable and tested projects within the Solana Ecosystem that allow for safe investment accrual, with means such as Lending, LSTs, Liquidity Provision, AMM and Spot Holdings. As well as in-house instruments, which in this case are Dynamic Bonds. 
