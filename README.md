@@ -18,6 +18,20 @@ Multiple Factor Rewards Staking program for Shred NFT collections
 - Original Link: <a href="https://shreddedapes.io" target="_blank">Shredded Apes<a/>
 -->
 
+<h3><u><strong><i>Algonea</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/8653c1b2-d072-4987-95cd-205129cc6e08" >
+
+P2E game with utility token providing game story, token swap
+
+- Original Link: <a href="https://www.algonea.io" target="_blank">Here</a>
+
+- Github: <a href="https://github.com/NebulaStudiosOrg" target="_blank">Here</a>
+
+- Medium: <a href="https://medium.com/@algonealab" target="_blank">Here</a>
+
+
 <h3><u><strong><i>Saturn Finance</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
