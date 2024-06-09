@@ -73,7 +73,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 <h3><u><strong><i> Coin Capital </i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/45dfccf6-086b-42ae-8cb9-4b0d8ced389b" >
+<img align="right" width = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/45dfccf6-086b-42ae-8cb9-4b0d8ced389b" >
 
 - Original Link: <a href="https://coin-capital.it/" target="_blank">Landing Page</a>
 
@@ -127,7 +127,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
 
 <h3><u><strong><i>GODz Community</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
-<img align="right" width = "500px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/bac6a2ec-e34d-4318-94a7-b3933836875d.png" >
+<img align="right" width = "350px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/bac6a2ec-e34d-4318-94a7-b3933836875d.png" >
 
 This is a GODz community with `$MYTH` on solana blockchain. This platform consists of launchpad, raffle, mini-services, sacrifice as well as minting site
 
@@ -149,7 +149,7 @@ This is a GODz community with `$MYTH` on solana blockchain. This platform consis
 <h3><u><strong><i>Rfrsh Dashboard</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width = "500px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/3c5cc977-b1c5-4b66-9eae-d83429c6e4e1.png" >
+<img align="right" width = "350px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/3c5cc977-b1c5-4b66-9eae-d83429c6e4e1.png" >
 This is a nft management tooling on Solana.
 
 - Site Link: <a href="https://rfrsh.io/" target="_blank">Rfrsh</a>
