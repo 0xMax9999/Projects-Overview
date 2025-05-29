@@ -2,11 +2,22 @@
 
 # NFT & Defi projects which 0xBear took part in. 
 
-## Swap platforms, trading bots with Jupiter, Raydium, Orca, Dydx, Ref-finance etc
+## Swap platforms, trading bots with Jupiter, Raydium, Orca, Dydx, Ref-finance, hyperliquid etc
 
 ## Mint/Launchpad, staking, marketplace, raffle/auction, traitshop, utilities, p2e games (dice, coinflip, poker, battle games) with erc-20, erc-721, erc-1155, erc-7, spl-token, token2022, NFT, pNFT, cNFT, xNFTs
 
+<h3><u><strong><i>Alldomains</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
 
+<img align="right" width = "500px" src="https://github.com/user-attachments/assets/cbbe3fbd-7550-4f86-a857-a2d5dc0ebc46" >
+
+SNS(Solana Name Service) provider combined with nft
+<br /><br />
+- Original Link: <a href="https://www.alldomains.id" target="_blank">Here</a>
+<br />
+
+- Github: <a href="https://github.com/onsol-labs" target="_blank">Here</a>
+<br />
 
 <h3><u><strong><i>Algonea</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
