@@ -1,6 +1,6 @@
 <!--# Blockchain Projects: (EVM / Solana / NEAR / Aptos)-->
 
-# NFT & Defi projects which 0xBear took part in. 
+# NFT & Defi projects which 0xMax took part in. 
 
 ## Swap platforms, trading bots with Jupiter, Raydium, Orca, Dydx, Ref-finance, hyperliquid etc
 
@@ -84,7 +84,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 <h3><u><strong><i> Coin Capital </i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width = "500px" src="https://github.com/0xbear9999/Projects-Overview/assets/3951725/45dfccf6-086b-42ae-8cb9-4b0d8ced389b" >
+<img align="right" width = "500px" src="https://github.com/user-attachments/assets/188eca6d-95fb-4265-8684-49bd1c8a045d" >
 
 - Original Link: <a href="https://coin-capital.it/" target="_blank">Landing Page</a>
 
@@ -103,7 +103,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
 <h3><u><strong><i>Roo Token Launch</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width = "500px" src="https://github.com/0xBear999/Projects-Overview/assets/90205652/e3937883-a2d2-4ad1-a2d4-8dfe6cba162b" >
+<img align="right" width = "500px" src="https://github.com/user-attachments/assets/288e0198-4623-4455-916a-a92661c15751" >
 
 
 - Original Link: <a href="https://www.roidsroo.xyz/" target="_blank">Landing Page</a>
