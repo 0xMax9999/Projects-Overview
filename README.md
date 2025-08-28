@@ -110,7 +110,7 @@ The Crosmo Shooter is a p2e battle game on Cronos Mainnet
   
 
 
-
+<!--
 <h3><u><strong><i>Crypto Legions Game</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
@@ -126,7 +126,7 @@ The Crypto Legions is a nft p2e game to get reward by hunting monsters is playin
   - Players can earn the reward by hunting monsters
 
 - Social Link: <a href="https://twitter.com/LegionsCrypto" target="_blank">The Crypto Legions</a>
-
+-->
 
 <h3><u><strong><i>GODz Community</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
