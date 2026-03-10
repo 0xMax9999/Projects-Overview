@@ -17,13 +17,13 @@ Arb bot, Trading bot (hyperliquid), Sniping bot (Raydium, Pumpfun, Pumpswap, Met
 <img align="right" width = "500px" src="https://github.com/user-attachments/assets/dbdf8bf2-f852-41fb-94ce-dcf60a00e265" >
 
 Rooty.fun allows creators to turn their token into a long-term flywheel by sharing a portion of their creator fees with their community.Rooty.fun uses the pump.fun infrastructure exclusively and adds an automated layer that routes creator fees back to supporters.
-<br /><br /><br /><br /><br /><br />
+<br />
 - Original Link: <a href="https://rooty.fun" target="_blank">Here</a>
 <br />
 
 - Github: <a href="https://github.com/AuditoneCodebase" target="_blank">Here</a>
 <br />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h3><u><strong><i>Algonea</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
