@@ -1,6 +1,6 @@
 <!--# Blockchain Projects: (EVM / Solana / NEAR / Aptos)-->
 
-# Projects-Overview which 0xMax took part in. 
+# Projects-Overview which 0xbear took part in. 
 
 ## NFT: (nft, pnft, cnft, xnft)
 Mint, Staking, Marketplace/Launchpad, Raffle/Auction, Traitshop, P2E games (dice, coinflip, poker, battle games, crash, jackpot..)
